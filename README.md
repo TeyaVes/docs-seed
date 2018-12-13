@@ -66,6 +66,7 @@ sh copy_local.sh "D:\Work\xaml-docs"
 - Open a terminal of your choice (e.g., gitBash)
 - Execute the following bash command in the root folder
 ```bash
+bundle install
 bundle exec jekyll serve
 ```
 
